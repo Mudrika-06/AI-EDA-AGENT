@@ -1,0 +1,9 @@
+seaborn
+streamlit
+langchain_google_genai
+langchain_groq
+langchain
+pandas
+numpy
+matplotlib
+langchain_community
